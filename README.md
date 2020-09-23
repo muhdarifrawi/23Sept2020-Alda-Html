@@ -1,26 +1,38 @@
+# Sample Markdown Syntax
+
+## Foreword
+This is just a sample of some of the Markdown Syntax to write a readme file. You can use them as reference to see how they are used.
+
+## Important Note
+Git can only push a certain amount of file size, and Github has a file size limit of 100MB. Please do be mindful while pushing your commits.
+
+You may encounter an error message like the following:\
+> remote: error: README.md is 132.52 MB; this exceeds GitHub's file size limit of 100 MB
+
+Here is a document from Github with regards to pushing large files:\
+[Conditions for large file](https://docs.github.com/en/github/managing-large-files/conditions-for-large-files)
+
 ## Headers
 
 Markdown has headers similar to HTML but use hashes 
 instead of the letter "h":
 
-`# header 1`
+`# header 1` :
 # header 1
-`## header 2`
+`## header 2` :
 ## header 2
-`### header 3`
+`### header 3` :
 ### header 3
-`#### header 4`
+`#### header 4` :
 #### header 4
-`##### header 5`
+`##### header 5` :
 ##### header 5
-`###### header 6`
+`###### header 6` :
 ###### header 6
 
 <br>
 
 ## Font Styles
-<br>
-
 ### Bold
 You can bold stuff by using double asterisks(**).\
 Or using double underscore(__).\
@@ -102,10 +114,34 @@ Will look like:\
 
 Using HTML `<img>` would allow you to resize your images.
 
-As for GIFs:
+As for GIFs, you can create a small video and convert it into GIFs.\
+Generally GIFs are no longer than a minute.
 
-`![slime eating](images/slime-eating.gif)`\
+You can add them the follwing way:
+
+`![slime eating](images/slime-eating.gif)`
+
 ![slime eating](images/slime-eating.gif)
 
-`<img src="images/slime-eating.gif" style="height:150px;"/>`\
+`<img src="images/slime-eating.gif" style="height:150px;"/>`
+
 <img src="images/slime-eating.gif" style="height:150px;"/>
+
+## HTML Syntax
+
+As from the previous examples, you may notice that some HTML syntax 
+can be used in Markdown as well.
+
+You can use `<br>` to break lines.
+
+or add `\` to end of sentences to create nice looking paragraphs.
+
+```
+this paragraph\
+for example
+```
+Will turn out this way:\
+this paragraph\
+for example
+
+These are just some of the things you could do.
