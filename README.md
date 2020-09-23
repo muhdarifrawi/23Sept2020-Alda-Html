@@ -93,6 +93,11 @@ An example:\
 will look like:\
 [go to youtube](https://www.youtube.com)
 
+You could also link within your Readme page:\
+`[Back to top](https://github.com/muhdarifrawi/23Sept2020-Alda-Html#sample-markdown-syntax)`\
+[Back to top](https://github.com/muhdarifrawi/23Sept2020-Alda-Html#sample-markdown-syntax)
+
+
 ## Images and GIFs
 
 You can add an additional excalamation mark(!) to links like so:\
