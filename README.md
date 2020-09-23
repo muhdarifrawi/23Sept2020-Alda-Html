@@ -112,10 +112,10 @@ Will look like:\
 
 Or you could also use the HTML `<img>` method.
 
-`<img src="images/ctn1.png" style="height:150px"/>`
+`<img src="images/ctn1.png" style="width:150px"/>`
 
 Will look like:\
-<img src="images/ctn1.png" style="height:150px;"/>
+<img src="images/ctn1.png" style="width:150px;"/>
 
 Using HTML `<img>` would allow you to resize your images.
 
@@ -128,9 +128,9 @@ You can add them the follwing way:
 
 ![slime eating](images/slime-eating.gif)
 
-`<img src="images/slime-eating.gif" style="height:150px;"/>`
+`<img src="images/slime-eating.gif" style="width:150px;"/>`
 
-<img src="images/slime-eating.gif" style="height:150px;"/>
+<img src="images/slime-eating.gif" style="width:150px;"/>
 
 ## HTML Syntax
 
