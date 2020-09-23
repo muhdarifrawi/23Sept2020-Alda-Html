@@ -112,25 +112,29 @@ Will look like:\
 
 Or you could also use the HTML `<img>` method.
 
-`<img src="images/ctn1.png" style="max-width:150px"/>`
+`<img src="images/ctn1.png"/>`
 
 Will look like:\
-<img src="images/ctn1.png" style="max-width:50%;"/>
+<img src="images/ctn1.png"/>
 
-Using HTML `<img>` would allow you to resize your images.
+~~Using HTML `<img>` would allow you to resize your images.~~
+
+After several attempts, I realise you can't resize using 
+HTML on Github. It's wiser to size your images before 
+placing into Gihub.
 
 As for GIFs, you can create a small video and convert it into GIFs.\
 Generally GIFs are no longer than a minute.
 
-You can add them the follwing way:
+You can add them the following way:
 
 `![slime eating](images/slime-eating.gif)`
 
 ![slime eating](images/slime-eating.gif)
 
-`<img src="images/slime-eating.gif" style="width:150px;"/>`
+`<img src="images/slime-eating.gif"/>`
 
-<img src="images/slime-eating.gif" style="width:150px;"/>
+<img src="images/slime-eating.gif"/>
 
 ## HTML Syntax
 
