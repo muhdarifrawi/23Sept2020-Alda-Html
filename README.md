@@ -6,7 +6,7 @@ This is just a sample of some of the Markdown Syntax to write a readme file. You
 ## Important Note
 Git can only push a certain amount of file size, and Github has a file size limit of 100MB. Please do be mindful while pushing your commits.
 
-You may encounter an error message like the following:\
+You may encounter an error message like the following:
 > remote: error: README.md is 132.52 MB; this exceeds GitHub's file size limit of 100 MB
 
 Here is a document from Github with regards to pushing large files:\
@@ -85,7 +85,7 @@ you can link stuff using the `[ ]( )` brackets together
 
 The `[ ]`portion will hold the title you wish to give to the link.
 
-WHile the `( )` portion holds the link itself.
+While the `( )` portion holds the link itself.
 
 An example:\
 `[go to youtube](https://www.youtube.com)`
@@ -100,7 +100,7 @@ You could also link within your Readme page:\
 
 ## Images and GIFs
 
-You can add an additional excalamation mark(!) to links like so:\
+You can add an additional exclamation mark(!) to links like so:\
 `![ ]( )`
 
 Here is an example:
